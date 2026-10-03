@@ -1,0 +1,12 @@
+﻿input_season,predicted_for_season,predicted_champion,actual_champion,top3_candidates,top1_hit,top3_hit
+2009-2010,2010-2011,Chelsea,Manchester United,"Chelsea, Manchester United, Liverpool",0,1
+2010-2011,2011-2012,Chelsea,Manchester City,"Chelsea, Manchester United, Arsenal",0,0
+2011-2012,2012-2013,Manchester City,Manchester United,"Manchester City, Manchester United, Chelsea",0,1
+2012-2013,2013-2014,Manchester City,Manchester City,"Manchester City, Manchester United, Chelsea",1,1
+2013-2014,2014-2015,Chelsea,Chelsea,"Chelsea, Manchester City, Liverpool",1,1
+2014-2015,2015-2016,Chelsea,Leicester City,"Chelsea, Manchester City, Arsenal",0,0
+2015-2016,2016-2017,Arsenal,Chelsea,"Arsenal, Leicester City, Tottenham Hotspur",0,0
+2016-2017,2017-2018,Tottenham Hotspur,Manchester City,"Tottenham Hotspur, Manchester City, Arsenal",0,1
+2017-2018,2018-2019,Manchester City,Manchester City,"Manchester City, Chelsea, Liverpool",1,1
+2018-2019,2019-2020,Liverpool,Liverpool,"Liverpool, Manchester City, Chelsea",1,1
+2019-2020,2020-2021,Manchester City,Manchester City,"Manchester City, Liverpool, Tottenham Hotspur",1,1

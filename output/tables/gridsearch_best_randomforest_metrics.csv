@@ -1,0 +1,2 @@
+﻿model,top1_hit_rate,top3_hit_rate,roc_auc,average_precision,brier_score
+gridsearch_best_randomforest,1.0,1.0,0.9883040935672515,0.8666666666666667,0.033300630619288465

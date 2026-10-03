@@ -1,0 +1,15 @@
+# MacOS
+.DS_Store
+
+# Python
+__pycache__/
+*.pyc
+
+# Virtual environments
+venv/
+env/
+.env
+
+# Data and Outputs (Optional, remove if you want to upload csv files)
+# data/
+# output/

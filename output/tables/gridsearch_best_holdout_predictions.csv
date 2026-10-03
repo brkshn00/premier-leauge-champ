@@ -1,0 +1,4 @@
+﻿input_season,predicted_for_season,predicted_champion,actual_champion,top3_candidates,top1_hit,top3_hit
+2017-2018,2018-2019,Manchester City,Manchester City,"Manchester City, Chelsea, Liverpool",1,1
+2018-2019,2019-2020,Liverpool,Liverpool,"Liverpool, Chelsea, Manchester City",1,1
+2019-2020,2020-2021,Manchester City,Manchester City,"Manchester City, Liverpool, Chelsea",1,1
